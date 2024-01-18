@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Final",
+            "request": "launch",
+            "mainClass": "Final",
+            "projectName": "CSE-111-Physics-I_eb34442c"
+        },
+        {
+            "type": "java",
             "name": "CalculateVelocity",
             "request": "launch",
             "mainClass": "CalculateVelocity",
