@@ -1,0 +1,140 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CalculateVelocity",
+            "request": "launch",
+            "mainClass": "CalculateVelocity",
+            "projectName": "CSE-111-Physics-I_500efecc"
+        },
+        {
+            "type": "java",
+            "name": "SkateboardAnimation",
+            "request": "launch",
+            "mainClass": "SkateboardAnimation",
+            "projectName": "CSE-111-Physics-I_500efecc"
+        },
+        {
+            "type": "java",
+            "name": "SkateboardSimulation",
+            "request": "launch",
+            "mainClass": "SkateboardSimulation",
+            "projectName": "CSE-111-Physics-I_500efecc"
+        },
+        {
+            "type": "java",
+            "name": "AnimatedChartExample",
+            "request": "launch",
+            "mainClass": "AnimatedChartExample",
+            "projectName": "CSE-111-Physics-I_500efecc"
+        },
+        {
+            "type": "java",
+            "name": "EnergySkateParkSimulation",
+            "request": "launch",
+            "mainClass": "EnergySkateParkSimulation",
+            "projectName": "CSE-111-Physics-I_500efecc"
+        },
+        {
+            "type": "java",
+            "name": "EnergySimulation",
+            "request": "launch",
+            "mainClass": "EnergySimulation",
+            "projectName": "CSE-111-Physics-I_500efecc"
+        },
+        {
+            "type": "java",
+            "name": "TrajectoryChart",
+            "request": "launch",
+            "mainClass": "TrajectoryChart",
+            "projectName": "CSE-111-Physics-I_500efecc"
+        },
+        {
+            "type": "java",
+            "name": "TrajectoryChart",
+            "request": "launch",
+            "mainClass": "TrajectoryChart",
+            "projectName": "CSE-111-Physics-I_eb34442c"
+        },
+        {
+            "type": "java",
+            "name": "EnergySimulation",
+            "request": "launch",
+            "mainClass": "EnergySimulation",
+            "projectName": "CSE-111-Physics-I_eb34442c"
+        },
+        {
+            "type": "java",
+            "name": "CustomTrajectoryChart",
+            "request": "launch",
+            "mainClass": "CustomTrajectoryChart",
+            "projectName": "FileManager_b866cb8e"
+        },
+        {
+            "type": "java",
+            "name": "Final",
+            "request": "launch",
+            "mainClass": "Final",
+            "projectName": "FileManager_b866cb8e"
+        },
+        {
+            "type": "java",
+            "name": "ProjectileMotionGraph",
+            "request": "launch",
+            "mainClass": "ProjectileMotionGraph",
+            "projectName": "FileManager_b866cb8e"
+        },
+        {
+            "type": "java",
+            "name": "TrajectoryChart",
+            "request": "launch",
+            "mainClass": "TrajectoryChart",
+            "projectName": "FileManager_b866cb8e"
+        },
+        {
+            "type": "java",
+            "name": "TrajectoryChart",
+            "request": "launch",
+            "mainClass": "TrajectoryChart",
+            "projectName": "FileManager_f4977be4"
+        },
+        {
+            "type": "java",
+            "name": "TrajectoryChart2",
+            "request": "launch",
+            "mainClass": "TrajectoryChart2",
+            "projectName": "FileManager_6ed66ec7"
+        },
+        {
+            "type": "java",
+            "name": "TrajectoryChart",
+            "request": "launch",
+            "mainClass": "TrajectoryChart",
+            "projectName": "FileManager_6ed66ec7"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "FinalHomework",
+            "request": "launch",
+            "mainClass": "FinalHomework",
+            "projectName": "FileManager_6ed66ec7"
+        },
+        {
+            "type": "java",
+            "name": "OrbitPlotter",
+            "request": "launch",
+            "mainClass": "OrbitPlotter",
+            "projectName": "FileManager_6ed66ec7"
+        }
+    ]
+}

@@ -1,26 +1,16 @@
 
 /**
 *-----------------------------------------------------
-* Akdeniz University CSE 111 Physics
+* Akdeniz University CSE111 Physics
 * Name: Yahya Efe Kurucay
-* Date: 17.01.2024
-* Description: 2023 Fall Final Exam Homework Part
+* Date: 14.01.2024  
+* Description: 2023 Fall Final Exam Homework Part Question 1
 * Score: ?
 * Website: https://efekurucay.com
 *-----------------------------------------------------
- * Final
- * Initial Velocity --> 20220808005  3 ve 4. rakamın değerinin 2 katı 22*2= 44.
- * Angle with horizontal axis --> 20220808005 son iki basamağı - Eğer 20 den küçükse 20 eklenecek.
- * g = 9,8 m/s^2 
- * Hareket yörüngesini çiz.
- * Uçuş süresi- time of flight
- * Maksimum yükseklik - the maximum height
- * Mermi hareketinin menzili - range of the projectile motion
- * 
- * Fizik 1 den başka bir konuda problem çöz.
  */
 
-public class Final {
+ public class Final {
  
 
     final public static double g = 9.8;
@@ -53,7 +43,7 @@ public class Final {
         double x = Math.toRadians(angleWithHorizontal(studentNum));
         double sin = Math.sin(x);
 
-        double t =calculateTimeOfFlight(studentNum);
+        double t =calculateTimeOfFlight(studentNum)/2; // half of flight time
 
         return (initialVelocity(studentNum)*sin*t)-((g*t*t)/2);
     }
@@ -67,7 +57,7 @@ public class Final {
         return initialVelocity(studentNum)*cos*t;
     }
     public static void main(String[] args) {
-        System.out.println(initialVelocity("20220808005"));
+       
        
        
     }
